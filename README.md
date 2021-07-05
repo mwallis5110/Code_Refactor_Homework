@@ -22,4 +22,4 @@ Before Images:
 
 These are just a few examples of CSS code prior to refactoring. As you can see, these elements can easily be consolidated
 
-Link to deployed website: 
+Link to deployed website: https://github.com/mwallis5110/W01_HW/settings/pages
